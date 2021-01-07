@@ -11,7 +11,7 @@ This Project shows the list of Users which are stored in the In-Memory H2 Databa
 ## Libraries used
 - Spring Boot
 - Spring Configuration
-- Spring REST Controller
+- Spring DATA REST Controller
 - Spring JPA
 - H2
 - Development Tools
