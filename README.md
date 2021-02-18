@@ -33,4 +33,4 @@ This Project shows the list of Users which are stored in the In-Memory H2 Databa
 
 ## Docker
 docker build -t apifirst/springboot .
-docker run -p 8080:8080 -t apifirst/springboot
+docker run --restart=always -p 8080:8080 -t apifirst/springboot
