@@ -24,7 +24,7 @@ import org.springframework.test.web.servlet.MvcResult;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.techprimers.controller.UsersController;
-import com.techprimers.model.User;
+import com.techprimers.model.client.User;
 import com.techprimers.repository.UserJpaRespository;
 
 @RunWith(SpringRunner.class)

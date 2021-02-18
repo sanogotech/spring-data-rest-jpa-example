@@ -1,6 +1,6 @@
 package com.techprimers.controller;
 
-import com.techprimers.model.User;
+import com.techprimers.model.client.User;
 import com.techprimers.repository.UserJpaRespository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
