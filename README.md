@@ -2,6 +2,16 @@
 This project depicts the Spring Boot Example with Spring Data REST and JPA Example
 
 ## Description
+
+
+## Docs API
+
+* Swagger
+
+- http://localhost:8080/swagger-ui.html
+- http://localhost:8080/v2/api-docs
+
+*  HAL  Browser
 This Project shows the list of Users which are stored in the In-Memory H2 Database. Using the following endpoints, different operations can be achieved:
 
 - http://localhost:8080/browser/index.html#/2
