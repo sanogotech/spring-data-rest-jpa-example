@@ -1,0 +1,6 @@
+com\techprimers\controller\UsersController.class
+com\techprimers\model\User.class
+com\techprimers\SpringBootDemoApplication.class
+com\techprimers\repository\ClientRespository.class
+com\techprimers\model\Client.class
+com\techprimers\repository\UserJpaRespository.class

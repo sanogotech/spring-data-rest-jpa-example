@@ -32,5 +32,5 @@ This Project shows the list of Users which are stored in the In-Memory H2 Databa
 - `mvn spring-boot:run`
 
 ## Docker
-docker build -t apifirst/spingboot .
-docker run -p 8080:8080 -t apifirst/spingboot
+docker build -t apifirst/springboot .
+docker run -p 8080:8080 -t apifirst/springboot
