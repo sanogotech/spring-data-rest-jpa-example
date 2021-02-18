@@ -15,10 +15,75 @@ public class Client {
 	private String nom;
 	private String prenom;
 	private String email;
+	//	Ref  Contrat
 	private String refcontrat;
+	// Ref Client
 	private String refclient;
 	private String telephone;
 	
+
+
+
+	private String numeroCompteur;
+	private String adresseTechnique;
+	private String puissanceSouscrite;
+	private String pointFourniture;
+	private String avanceConsomation;
+	private String typeTarif;
+	private String typeAbonnement;
+	private String genreAbonnement; 
+	
+	
+	
+	
+	public String getNumeroCompteur() {
+		return numeroCompteur;
+	}
+	public void setNumeroCompteur(String numeroCompteur) {
+		this.numeroCompteur = numeroCompteur;
+	}
+	public String getAdresseTechnique() {
+		return adresseTechnique;
+	}
+	public void setAdresseTechnique(String adresseTechnique) {
+		this.adresseTechnique = adresseTechnique;
+	}
+	public String getPuissanceSouscrite() {
+		return puissanceSouscrite;
+	}
+	public void setPuissanceSouscrite(String puissanceSouscrite) {
+		this.puissanceSouscrite = puissanceSouscrite;
+	}
+	public String getPointFourniture() {
+		return pointFourniture;
+	}
+	public void setPointFourniture(String pointFourniture) {
+		this.pointFourniture = pointFourniture;
+	}
+	public String getAvanceConsomation() {
+		return avanceConsomation;
+	}
+	public void setAvanceConsomation(String avanceConsomation) {
+		this.avanceConsomation = avanceConsomation;
+	}
+	public String getTypeTarif() {
+		return typeTarif;
+	}
+	public void setTypeTarif(String typeTarif) {
+		this.typeTarif = typeTarif;
+	}
+	public String getTypeAbonnement() {
+		return typeAbonnement;
+	}
+	public void setTypeAbonnement(String typeAbonnement) {
+		this.typeAbonnement = typeAbonnement;
+	}
+	public String getGenreAbonnement() {
+		return genreAbonnement;
+	}
+	public void setGenreAbonnement(String genreAbonnement) {
+		this.genreAbonnement = genreAbonnement;
+	}
 	public String getNom() {
 		return nom;
 	}
